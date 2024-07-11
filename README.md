@@ -2,11 +2,6 @@
 ## Table Of Content
 Problem Statement <br />
 Steps Followed <br />
-- Data Gathering
-- Data Cleaning
-- Data Processing
-- Data Modelling
-- Data Analysis  <br />
 Key Questions of The Dashboard <br />
 Learned About <br />
 Key Insights Summary <br />
