@@ -7,7 +7,9 @@ Steps Followed <br />
 - Data Processing
 - Data Modelling
 - Data Analysis
-
+Key Questions of The Dashboard <br />
+Learned About <br />
+Key Insights Summary <br />
 
 ## Objective:
 The objective of this project is to analyse the historical debt record of a bank and provide actionable insights through a dashboard for checking overall health and profitability of a bank. These  insights will prove helpful for the Credit Risk Assessment Team for their further analysis.
