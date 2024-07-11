@@ -1,4 +1,6 @@
 # Project Bank Loan Analysis Using SQL and Power BI
+![Screenshot 2024-07-11 144607](https://github.com/shripadk1999/Project_Bank_Loan_Analysis_Using_Power_BI_and_SQL/assets/161477229/a505d105-d6b2-4beb-bea6-79d2b44c34a3)
+
 ## Table Of Content
 Problem Statement <br />
 Steps Followed <br />
