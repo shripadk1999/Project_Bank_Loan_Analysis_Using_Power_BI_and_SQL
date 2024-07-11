@@ -6,7 +6,7 @@ Key Questions of The Dashboard <br />
 Learned About <br />
 Key Insights Summary <br />
 
-## Objective:
+## Problem Statment:
 The objective of this project is to analyse the historical debt record of a bank and provide actionable insights through a dashboard for checking overall health and profitability of a bank. These  insights will prove helpful for the Credit Risk Assessment Team for their further analysis.
 Throughout this project, I've had the chance to:<br />
   1.Dive deep into the study of the banking domain to uncover valuable insights. <br />
