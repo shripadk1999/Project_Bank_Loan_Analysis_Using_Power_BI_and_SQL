@@ -1,7 +1,7 @@
 # Project Bank Loan Analysis Using SQL and Power BI
 ## Table Of Content
-Problem Statement
-Steps Followed
+Problem Statement <br />
+Steps Followed <br />
 - Data Gathering
 - Data Cleaning
 - Data Processing
