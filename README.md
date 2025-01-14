@@ -63,3 +63,8 @@ In the DAX Query view, “Select Measure” named table was also included.<br />
 ![PBI Bank Loan Report 1](https://github.com/shripadk1999/Project_Bank_Loan_Analysis_Using_Power_BI/assets/161477229/a822b20b-2ea7-4821-84b8-3b9d4fa51502)
 ![PBI Bank Loan Report 2](https://github.com/shripadk1999/Project_Bank_Loan_Analysis_Using_Power_BI/assets/161477229/1b36c4f8-7847-4901-a431-6bc775445ada)
 ![PBI Bank Loan Report 3](https://github.com/shripadk1999/Project_Bank_Loan_Analysis_Using_Power_BI/assets/161477229/0becadac-f240-4610-af74-855684689799)
+
+**Shripad Kulkarni**  
+- Email: [shripadkulkarni2212@gmail.com](mailto:shripadkulkarni2212@gmail.com)  
+- LinkedIn: [Shripad Kulkarni](https://www.linkedin.com/in/shripad-kulkarni-candoit)  
+- GitHub: [Shripad Kulkarni](https://github.com/shripadk1999)
